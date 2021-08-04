@@ -1,0 +1,32 @@
+.flexbox{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: auto;
+    background-color: wheat
+}
+
+.card{
+    width:350px;
+    background-color:aquamarine;
+    margin: 30px;
+    border-radius: 15px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+input{
+    max-width: 150px;
+}
+
+.img{
+    width:100px;
+    height: 100px;
+    background-color: blue;
+    margin: auto;
+}
+
+body{
+    margin:auto;
+    text-align: center;
+}
